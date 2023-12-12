@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "com.nosuchstudio.rtltmpro": "https://github.com/pnarimani/RTLTMPro.git?path=/UPMPackage",
     "com.unity.collab-proxy": "1.7.1",
+    "com.unity.ide.rider": "3.0.27",
     "com.unity.ide.vscode": "1.2.4",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.ugui": "1.0.0",
@@ -34,7 +36,6 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0",
-"com.nosuchstudio.rtltmpro":"https://github.com/pnarimani/RTLTMPro.git?path=/UPMPackage"
+    "com.unity.modules.xr": "1.0.0"
   }
 }
